@@ -1,3 +1,14 @@
+C:\Users\yanba\git\aula-dio-spring-boot\src\main\java\edu\yan\springboot\designpatternsspringboot\gof\Aplicacao.java
+C:\Users\yanba\git\aula-dio-spring-boot\src\main\java\edu\yan\springboot\designpatternsspringboot\gof\controller\ClienRestController.java
+C:\Users\yanba\git\aula-dio-spring-boot\src\main\java\edu\yan\springboot\designpatternsspringboot\gof\model\Cliente.java
+C:\Users\yanba\git\aula-dio-spring-boot\src\main\java\edu\yan\springboot\designpatternsspringboot\gof\model\Endereco.java
+C:\Users\yanba\git\aula-dio-spring-boot\src\main\java\edu\yan\springboot\designpatternsspringboot\gof\repository\ClienteRepository.java
+C:\Users\yanba\git\aula-dio-spring-boot\src\main\java\edu\yan\springboot\designpatternsspringboot\gof\repository\EnderecoRepository.java
+C:\Users\yanba\git\aula-dio-spring-boot\src\main\java\edu\yan\springboot\designpatternsspringboot\gof\service\ClienteServiceI.java
+C:\Users\yanba\git\aula-dio-spring-boot\src\main\java\edu\yan\springboot\designpatternsspringboot\gof\service\EnderecoServiceI.java
+C:\Users\yanba\git\aula-dio-spring-boot\src\main\java\edu\yan\springboot\designpatternsspringboot\gof\service\implementation\ClienteServiceImplementation.java
+C:\Users\yanba\git\aula-dio-spring-boot\src\main\java\edu\yan\springboot\designpatternsspringboot\gof\service\implementation\EnderecoServiceImplementation.java
+C:\Users\yanba\git\aula-dio-spring-boot\src\main\java\edu\yan\springboot\designpatternsspringboot\gof\service\ViaCepServiceI.java
 C:\Users\yanba\git\aula-dio-spring-boot\src\main\java\edu\yan\springboot\persistencia\introducaojpa\AulaSpringDataJpaApplication.java
 C:\Users\yanba\git\aula-dio-spring-boot\src\main\java\edu\yan\springboot\persistencia\introducaojpa\Dao\UsuarioDao.java
 C:\Users\yanba\git\aula-dio-spring-boot\src\main\java\edu\yan\springboot\persistencia\introducaojpa\Model\UsuarioModel.java
